@@ -13,6 +13,6 @@ public class App
     }
 
 	private static void showLoggingFrameworks() {
-		System.out.println("===Log4===");		
+		System.out.println("===Log4j===");		
 	}
 }
